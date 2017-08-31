@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Homework
+namespace Problem_1
 {
     class MainClass
     {

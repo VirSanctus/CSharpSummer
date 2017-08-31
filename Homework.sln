@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{D4B8841B-CEC1-4747-A659-59FA4D10CA1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem_1", "Problem_1\Problem_1.csproj", "{51520C2E-4736-4399-9E81-4C0BDC8E8F29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D4B8841B-CEC1-4747-A659-59FA4D10CA1D}.Debug|x86.ActiveCfg = Debug|x86
-		{D4B8841B-CEC1-4747-A659-59FA4D10CA1D}.Debug|x86.Build.0 = Debug|x86
-		{D4B8841B-CEC1-4747-A659-59FA4D10CA1D}.Release|x86.ActiveCfg = Release|x86
-		{D4B8841B-CEC1-4747-A659-59FA4D10CA1D}.Release|x86.Build.0 = Release|x86
+		{51520C2E-4736-4399-9E81-4C0BDC8E8F29}.Debug|x86.ActiveCfg = Debug|x86
+		{51520C2E-4736-4399-9E81-4C0BDC8E8F29}.Debug|x86.Build.0 = Debug|x86
+		{51520C2E-4736-4399-9E81-4C0BDC8E8F29}.Release|x86.ActiveCfg = Release|x86
+		{51520C2E-4736-4399-9E81-4C0BDC8E8F29}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
